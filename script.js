@@ -53,7 +53,6 @@ class TaskListC {
 
     const failedTasks = [];
     const successfullTasks = [];
-    //for (let i = 0; i < taskList.length; i++) {
     for (let i of taskList) {
         
         p.addTask({
